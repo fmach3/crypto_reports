@@ -4,3 +4,7 @@ This script accesses Gemini.com Rest API and calculates moving averages and othe
 This script was developed to allow a research project into the patterns of crypto markets for the further design of trading software.
 
 It will also send you telegram updates for any metrics you code into it.
+
+You can observe the working prototype here: https://cryptobot.graphinex.com
+
+Information gleaned from this project is being used to build https://crypticks.graphinex.com
